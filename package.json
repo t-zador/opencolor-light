@@ -9,6 +9,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "modify": "node scripts/modify.js"
+  },
   "contributes": {
     "themes": [
       {
