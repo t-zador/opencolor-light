@@ -1,0 +1,21 @@
+{
+  "name": "opencolor-light",
+  "displayName": "OpenColor Light",
+  "description": "OpenColor based Light Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OpenColor Light",
+        "uiTheme": "vs",
+        "path": "./themes/OpenColor Light-color-theme.json"
+      }
+    ]
+  }
+}
