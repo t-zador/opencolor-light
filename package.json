@@ -4,6 +4,10 @@
   "description": "OpenColor based Light Theme",
   "version": "0.0.1",
   "publisher": "less-is-more",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:t-zador/opencolor-light.git"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
