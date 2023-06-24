@@ -3,6 +3,7 @@
   "displayName": "OpenColor Light",
   "description": "OpenColor based Light Theme",
   "version": "0.0.1",
+  "publisher": "less-is-more",
   "engines": {
     "vscode": "^1.79.0"
   },
